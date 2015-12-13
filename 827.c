@@ -1,3 +1,4 @@
+/*I 完全是抄下例827的代码，but something went wrong ,and I think it's because the point problems*/
 #include <stdio.h>
 #include <string.h>
 int main()
