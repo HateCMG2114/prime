@@ -26,7 +26,7 @@ void main()
 		printf("%d-",*(a+i));
 		}
 	i=10;
-	inv(a,10);
+	inv(a,i);
 	printf("after sorting :\n");
 	for(i=0;i<10;i++)
 		{
